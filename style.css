@@ -1,0 +1,31 @@
+.heroslide {
+
+    background-color: white;
+    color: black;
+}
+
+
+
+.main-image {
+    width: 50%;
+
+}
+
+.bodyslide {
+    background-color: #46648c;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card {
+    background-color: aliceblue;
+}
+.card-img-top {
+    height:200px;
+}
+
+nav {
+    background-color: #189de4;
+}
+
